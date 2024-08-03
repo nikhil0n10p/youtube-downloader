@@ -28,7 +28,7 @@ via Telegram and the `pytube` library to download YouTube videos and audio.
 
 2. Clone the repository:
    ```bash
-   git clone https://github.com/DiarTor/ditube.git
+   git clone https://github.com/DiarTor/youtube-downlaoder.git
    ```
 
 3. Install the required libraries:
